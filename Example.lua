@@ -1,6 +1,4 @@
--- เปลี่ยน USERNAME / REPO ให้เป็นของคุณ
-local Lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/USERNAME/REPO/main/Library.lua"))()
-
+local Lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/sioaoususg-ctrl/Tuktik-script/refs/heads/main/Library.lua"))()
 Lib.Key({
 	Title   = "My Hub",
 	Logo    = "",                       -- ว่าง = ใช้ไอคอนกุญแจ
